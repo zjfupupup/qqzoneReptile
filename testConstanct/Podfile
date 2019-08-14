@@ -1,0 +1,3 @@
+target 'testConstanct' do
+	pod 'Masonry'
+end
